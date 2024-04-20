@@ -52,9 +52,9 @@ To get started with ASHTRA, follow these steps:
 
 ## Contributors
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- [Akhil Songa] AS
+- [Sai Harsha] SH
+- [Tanmai Raavi] TRA
 
 ## License
 
