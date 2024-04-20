@@ -1,9 +1,13 @@
 # ASHTRA
 Scattering Knowledge Every-Where 
+
 ![Image Alt Text](flow.jpeg)
 
 
 ![Image Alt Text](final_image.JPG)
+
+
+![Image Alt Text](chat.JPG)
 
 # ASHTRA
 
