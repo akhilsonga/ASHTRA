@@ -1,6 +1,6 @@
 # ASHTRA
 Scattering Knowledge Every-Where 
-![Image Alt Text](flow.JPG)
+![Image Alt Text](flow.jpeg)
 
 
 ![Image Alt Text](final_image.JPG)
